@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318059956359",
+    "project_id": "flaver-test-dev",
+    "storage_bucket": "flaver-test-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318059956359:android:44cc5d438ab4128f6f9022",
+        "android_client_info": {
+          "package_name": "com.app.flavor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFeQT4mZ5yHRizJ5sV8U_LLXdhlsQdtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
